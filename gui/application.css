@@ -1,0 +1,24 @@
+.button{
+	-fx-background-color: #FF4040;
+}
+.button:hover{
+	-fx-background-color: #CD3333;
+}
+#menuBar{
+	-fx-background-color: #FF6103;
+}
+.root{
+	-fx-background-color: #FF7F24;
+}
+
+.menu-item:focused{
+	-fx-background-color: #C76114;
+}
+
+.menu-item:focused .label {
+    -fx-text-fill: white;
+}
+
+.context-menu{
+
+}
